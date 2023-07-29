@@ -12,7 +12,7 @@ export const RQSuperHeroes = () => {
 
 
 
-  const onSuccess=(data)=>{
+  const onSuccess=(data)=>{ 
    console.log("perform side effect after data fetching",data)
   }
 

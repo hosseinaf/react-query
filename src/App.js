@@ -31,7 +31,7 @@ function App() {
           </ul>
         </nav>
         <Routes>
-          <Route index element={<Home />}></Route>
+         <Route index element={<Home />}></Route>  
           <Route path="/rqparallel" element={<ParallelQueries/>}></Route>
           <Route path="/home" element={<Home />}></Route>
           <Route path="/superheros" element={<SuperHeroes />}></Route>

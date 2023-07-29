@@ -9,6 +9,15 @@ const fetchSuperHeroes = () => {
      
 export const useSuperHeroesData = (onSuccess,onError) => {
   return useQuery("super-heroes", fetchSuperHeroes, {
+     // cacheTime:5000,
+    //staleTime:3000
+   //refetchOnMount:true
+    // refetchOnWindowFocus:"true"
+   // refetchInterval:2000
+  //  refetchIntervalInBackground:true
+
+  //dont fire request by iteself
+  enabled:false,
     onSuccess,
     onError,
     // select: (data) => {
