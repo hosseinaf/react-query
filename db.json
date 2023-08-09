@@ -14,20 +14,105 @@
       "id": 3,
       "name": "Wonder Woman 1",
       "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "dd",
+      "alterEgo": "dd",
+      "id": 4
+    },
+    {
+      "name": "kalen",
+      "alterEgo": "catwomen",
+      "id": 5
+    },
+    {
+      "name": "kalen",
+      "alterEgo": "catwomen",
+      "id": 6
+    },
+    {
+      "name": "grgg",
+      "alterEgo": " fgr",
+      "id": 7
+    },
+    {
+      "name": "friends",
+      "alterEgo": "joy",
+      "id": 8
+    },
+    {
+      "name": "friendsdsa",
+      "alterEgo": "joysda",
+      "id": 9
+    },
+    {
+      "name": "friendsdsa",
+      "alterEgo": "joysda",
+      "id": 10
     }
   ],
-  "friends":[
+  "friends": [
     {
-      "id":1,
-      "name":"Chandler Being"
+      "id": 1,
+      "name": "Chandler Being"
     },
     {
-      "id":2,
-      "name":"Joy Tribbiani"
+      "id": 2,
+      "name": "Joy Tribbiani"
     },
     {
-      "id":3,
-      "name":"Rachel Green"
+      "id": 3,
+      "name": "Rachel Green"
+    }
+  ],
+  "users": [
+    {
+      "id": "vishwas@example.com",
+      "channelId": "codevolution"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codevolution",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "white"
+    },
+    {
+      "id": 7,
+      "label": "orange"
+    },
+    {
+      "id": 8,
+      "label": "purple"
     }
   ]
 }
